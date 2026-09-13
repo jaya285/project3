@@ -1,0 +1,32 @@
+# Environment variables (API Keys / Secrets)
+.env
+.env.*
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code / IDE settings
+.vscode/
+.devcontainer/
+
+# Machine Learning Large Files (Models & Metrics)
+*.pkl
+*.h5
+*.onnx
+models/landslide_model.pkl
+
+# Temporary Images & Screenshots
+*.png
+*.jpg
+*.jpeg
+ChatGPT Image*
+Screenshot*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+
+.env
